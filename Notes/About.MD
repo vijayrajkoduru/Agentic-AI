@@ -1,5 +1,0 @@
-insatll
-
-        ->Anaconda 
-        ->vs code 
-    
